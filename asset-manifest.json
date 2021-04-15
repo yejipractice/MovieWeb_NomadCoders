@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/movieweb_nomadcoders/static/css/main.008f24af.chunk.css",
+    "main.js": "/movieweb_nomadcoders/static/js/main.7cbb7aa9.chunk.js",
+    "main.js.map": "/movieweb_nomadcoders/static/js/main.7cbb7aa9.chunk.js.map",
+    "runtime-main.js": "/movieweb_nomadcoders/static/js/runtime-main.dbc6b833.js",
+    "runtime-main.js.map": "/movieweb_nomadcoders/static/js/runtime-main.dbc6b833.js.map",
+    "static/js/2.d1ebf8aa.chunk.js": "/movieweb_nomadcoders/static/js/2.d1ebf8aa.chunk.js",
+    "static/js/2.d1ebf8aa.chunk.js.map": "/movieweb_nomadcoders/static/js/2.d1ebf8aa.chunk.js.map",
+    "index.html": "/movieweb_nomadcoders/index.html",
+    "static/css/main.008f24af.chunk.css.map": "/movieweb_nomadcoders/static/css/main.008f24af.chunk.css.map",
+    "static/js/2.d1ebf8aa.chunk.js.LICENSE.txt": "/movieweb_nomadcoders/static/js/2.d1ebf8aa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbc6b833.js",
+    "static/js/2.d1ebf8aa.chunk.js",
+    "static/css/main.008f24af.chunk.css",
+    "static/js/main.7cbb7aa9.chunk.js"
+  ]
+}
